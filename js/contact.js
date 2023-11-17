@@ -1,3 +1,42 @@
+// const article1 = {
+//     image: "netflix.jpg",
+//     title:  "The Netflix Effect",
+//     content: "Hello world",
+//     date: "17 Agustus 1945",
+//     uploadAt: "",
+//     author: "Scott Galloway",
+// }
+
+// const article2 = {
+//     image: "obama.jpg",
+//     title:  "Wha tim readgin ",
+//     content: "halo ang",
+//     date: "17 Agustus 1231",
+//     uploadAt: "",
+//     author: "Barrack Obama",
+// }
+
+// const articles = [article1, article2]
+
+// const person1 = {
+//     nama: "Dipa",
+//     alamat: "Jakarta"
+// }
+
+// const person2 = {
+//     nama: "Yulia",
+//     alamat: "Tangerang"
+// }
+
+// const person3 = {
+//     nama: "Raden",
+//     alamat: "Banyumas"
+// }
+
+// const circleGaming = [person1, person2, person3]
+
+// console.log(circleGaming)
+
 // TIPE DATA :
 // string -> "Halo nama surya" OR 'Halon nama saya surya' OR `Halo nama saya surya`
 
